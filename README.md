@@ -92,17 +92,29 @@ This project was developed as part of the **Janatics Automation Skill Challenge 
 ## Team & Contribution
 
 This project was developed as a **team project** during the competition.
+## Team
 
-My contributions included:
+This project was developed as a **team project** during the **Janatics Automation Skill Challenge (JASC) 2025**.
+
+**Team Members**
+
+* Jay Gandhi
+* Harshal Gadekar
+* Prem Chaudhari
+
+---
+
+## My Contribution
+
+My responsibilities in the project included:
 
 * Hardware design and system integration
 * Arduino programming and control logic implementation
-* Implementing **Arduino–PLC communication using relay module**
+* Implementing **Arduino–PLC communication using a relay module**
 * Testing and debugging the automation system
 * Assisting in system assembly and validation
 
 ---
-
 
 ## Author
 
